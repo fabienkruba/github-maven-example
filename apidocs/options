@@ -1,17 +1,17 @@
 -classpath
-'/home/kevin/repositories/github-maven-example/example/target/classes'
+'/Users/fabienkruba/projects/github-maven-example/example/target/classes'
 -encoding
 'UTF-8'
 -protected
 -sourcepath
-'/home/kevin/repositories/github-maven-example/example/src/main/java'
+'/Users/fabienkruba/projects/github-maven-example/example/src/main/java'
 -author
 -bottom
 'Copyright &#169; 2012. All Rights Reserved.'
 -charset
 'UTF-8'
 -d
-'/home/kevin/repositories/github-maven-example/example/target/site/apidocs'
+'/Users/fabienkruba/projects/github-maven-example/example/target/site/apidocs'
 -docencoding
 'UTF-8'
 -doctitle
